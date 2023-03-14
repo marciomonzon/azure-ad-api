@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ThGmgydHrScgwFdh7I+/yqXaN8KlvAfdPxKpYSra8N8=",
+  "Source": "AzureAd",
+  "BasePath": "_content/AzureAd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
